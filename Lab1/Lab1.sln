@@ -1,0 +1,28 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1WPF", "Lab1WPF\Lab1WPF.csproj", "{7AE4D7D2-0670-455A-9926-81E4186E6BC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1Library", "Lab1Library\Lab1Library.csproj", "{94DC46D1-4100-4FBB-BFB7-8B668351291B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1Console", "Lab1Console\Lab1Console.csproj", "{8417FF97-1140-4496-9CD0-142333DD42D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AE4D7D2-0670-455A-9926-81E4186E6BC8}.Debug|Any CPU.ActiveCfg = Debug|AnyCPU
+		{7AE4D7D2-0670-455A-9926-81E4186E6BC8}.Debug|Any CPU.Build.0 = Debug|AnyCPU
+		{7AE4D7D2-0670-455A-9926-81E4186E6BC8}.Release|Any CPU.ActiveCfg = Release|AnyCPU
+		{7AE4D7D2-0670-455A-9926-81E4186E6BC8}.Release|Any CPU.Build.0 = Release|AnyCPU
+		{94DC46D1-4100-4FBB-BFB7-8B668351291B}.Debug|Any CPU.ActiveCfg = Debug|AnyCPU
+		{94DC46D1-4100-4FBB-BFB7-8B668351291B}.Debug|Any CPU.Build.0 = Debug|AnyCPU
+		{94DC46D1-4100-4FBB-BFB7-8B668351291B}.Release|Any CPU.ActiveCfg = Release|AnyCPU
+		{94DC46D1-4100-4FBB-BFB7-8B668351291B}.Release|Any CPU.Build.0 = Release|AnyCPU
+		{8417FF97-1140-4496-9CD0-142333DD42D1}.Debug|Any CPU.ActiveCfg = Debug|AnyCPU
+		{8417FF97-1140-4496-9CD0-142333DD42D1}.Debug|Any CPU.Build.0 = Debug|AnyCPU
+		{8417FF97-1140-4496-9CD0-142333DD42D1}.Release|Any CPU.ActiveCfg = Release|AnyCPU
+		{8417FF97-1140-4496-9CD0-142333DD42D1}.Release|Any CPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+EndGlobal
